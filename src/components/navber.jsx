@@ -14,7 +14,7 @@ const Navber = () => {
     };
 
     return (
-        <div className="flex items-center justify-between px-10 py-4 bg-gradient-to-r from-white via-red-100 to-yellow-50 ">
+        <div className="flex items-center justify-around px-10 py-4 bg-gradient-to-r from-white via-red-100 to-yellow-50 ">
             {/* Logo container */}
             <div className="flex items-center">
                 <Image src={'/Frame2.png'} alt='logo' width={40} height={40} />

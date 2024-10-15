@@ -3,7 +3,7 @@ import React from 'react';
 
 const HomePage = () => {
     return (
-        <div className="w-full px-10 py-5 flex  items-center justify-center gap-5 md:flex-row flex-col sm:flex-row lg:flex-row ">  
+        <div className="w-full px-10 py-5 flex  items-center justify-around  md:flex-row flex-col sm:flex-row lg:flex-row ">  
             {/* left side container */}
             <div className=" p-2 w-full flex pl-10">
                 <div className="flex flex-col gap-4"> 
